@@ -1,0 +1,1 @@
+This project will predict the fuel consumption of a ship in a particular vovage by using data.
